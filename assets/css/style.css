@@ -2191,6 +2191,10 @@ section {
 }
 
 @media (max-width: 768px) {
+	.abouttab {
+    padding-top: 24px !important;
+    padding-bottom: 50px !important;
+    }
 	.contact {
 	padding-bottom: 0px;
 	padding-top: 40px;
