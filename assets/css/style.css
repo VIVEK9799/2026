@@ -832,7 +832,7 @@ section {
 
 .tabs .tab-pane ul li {
   padding-bottom: 10px;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .tabs .tab-pane ul i {
@@ -2203,8 +2203,8 @@ section {
 	}
     .abouttab {
 	padding-top: 0 !important;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
 	}
 	h1.logo.me-auto {
     width: 100px;
@@ -2245,7 +2245,7 @@ section {
     font-size: 18px;
 }
 .abouttab {
-    padding-top: 50px !important;
+    padding-top: 20px !important;
 }
 #hero {
     margin-bottom: 0px !important;
