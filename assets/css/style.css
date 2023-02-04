@@ -2249,7 +2249,8 @@ section {
     font-size: 18px;
 }
 .abouttab {
-    padding-top: 20px !important;
+    padding-top: 50px !important;
+	padding-bottom: 50px !important;
 }
 #hero {
     margin-bottom: 0px !important;
