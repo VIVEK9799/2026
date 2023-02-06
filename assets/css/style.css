@@ -2278,3 +2278,61 @@ section {
 	font-weight: bold;
     color: #607d8b;
 }
+
+a.twitter {
+    color: #6f6f6f;
+    padding: 4px 12px;
+    display: inline-block;
+    line-height: 1px;
+    transition: 0.3s;
+}
+
+a.facebook {}
+
+a.facebook {
+    color: #6f6f6f;
+    padding: 4px 12px;
+    display: inline-block;
+    line-height: 1px;
+    transition: 0.3s;
+}
+
+a.instagram {
+    color: #6f6f6f;
+    padding: 4px 12px;
+    display: inline-block;
+    line-height: 1px;
+    transition: 0.3s;
+}
+
+a.linkedin {
+    color: #6f6f6f;
+    padding: 4px 12px;
+    display: inline-block;
+    line-height: 1px;
+    transition: 0.3s;
+}
+
+.contact-info.d-flex.align-items-center {
+    color: #6f6f6f;
+    padding: 0px 0px;
+    display: inline-block;
+    line-height: 1px;
+    transition: 0.3s;
+}
+
+i.bi.bi-envelope-fill {
+    color: #6f6f6f;
+    padding: 4px 12px;
+    display: inline-block;
+    line-height: 1px;
+    transition: 0.3s;
+}
+
+i.bi.bi-phone-fill.phone-icon {
+    color: #6f6f6f;
+    padding: 4px 12px;
+    display: inline-block;
+    line-height: 1px;
+    transition: 0.3s;
+}
