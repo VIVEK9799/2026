@@ -2241,7 +2241,10 @@ section {
 
     .row258 {
     padding: 0 30px 0 30px;
-    } 
+    }
+    .col-lg-4.order-1.order-lg-1.text-center.aos-init.aos-animate {
+    padding: 0px !important;
+    }	
 }
     h1.logo.me-auto {
     font-size: 1.2rem !important;
