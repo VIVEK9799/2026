@@ -837,7 +837,7 @@ section {
 }
 
 .tabs .tab-pane ul i {
-  font-size: 24px;
+  font-size: 18px;
   padding-right: 4px;
   color: #088b96;
 }
@@ -2226,7 +2226,22 @@ section {
 	.col-lg-4.col-md-6.d-flex.align-items-stretch.aos-init.aos-animate {
     justify-content: center;
     }
-     
+    .tab-content {
+    margin-top: 30px;
+    margin-bottom: 28px;
+    }
+
+    .col-lg-12.order-2.order-lg-1.mt-3.mt-lg-0.aos-init.aos-animate {
+    padding: 0px 6px 0 6px !important;
+    }
+
+    h1 {
+    font-size: 2.5rem !important;
+    }
+
+    .row258 {
+    padding: 0 30px 0 30px;
+    } 
 }
     h1.logo.me-auto {
     font-size: 1.2rem !important;
