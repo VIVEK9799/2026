@@ -2244,7 +2244,9 @@ section {
     }
     .col-lg-4.order-1.order-lg-1.text-center.aos-init.aos-animate {
     padding: 0px 15px !important;
-    }	
+    }
+    .dfdf1 {--bs-gutter-x: 0rem;
+}	
 }
     h1.logo.me-auto {
     font-size: 1.2rem !important;
